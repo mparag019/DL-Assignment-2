@@ -38,4 +38,4 @@ batch_norm = True<br>
 dropout = 0.3<br>
 
 
-This is my best configuration, getting the test accuracy of 36.1% when we used the model and train it fromthe scratch, and getting 72.05% when we used pretrained model(ResNET50) and fine tuned it. 
+This is my best configuration, getting the test accuracy of 36.1% when we used the model and train it from the scratch, and getting 72.05% when we used pretrained model(ResNET50) and fine tuned it. 
